@@ -6,6 +6,7 @@
     border: 5px solid #333;
     border-radius: 20px;
     text-align: center;
+	background-color: lightgrey;
 }
 
 .red, .green, .yellow {
